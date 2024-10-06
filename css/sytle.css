@@ -1,5 +1,5 @@
 body {
-  color: #333;
+  color: #3a383d;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
@@ -7,15 +7,10 @@ body {
   padding: 0;
 }
 
-h1 {
-  font-size: 24px;
-  color: purple;
-}
-
 #cabecera {
-  background: #33a;
+  background: rgb(170, 51, 162);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-  color: white;
+  color: rgb(192, 159, 159);
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
@@ -31,7 +26,7 @@ h1 {
   width: 70%;
   padding: 0;
   text-align: left;
-  border: 1px solid #ddd;
+  border: 1px solid #92db91;
   margin: 0;
 }
 
