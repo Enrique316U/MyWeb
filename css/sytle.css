@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
   color: #066a05;
+=======
+  color: #070acd;
+>>>>>>> cabecera
   text-align: center;
   font-family: "Courier New", Courier, monospace;
   font-size: 16px;
@@ -8,7 +12,7 @@ body {
 }
 
 #cabecera {
-  background: rgb(170, 51, 162);
+  background: rgb(168, 10, 10);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
   color: rgb(192, 159, 159);
   font-weight: bold;
